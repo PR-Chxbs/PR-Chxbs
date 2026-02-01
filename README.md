@@ -8,11 +8,9 @@ I am an Full-Stack Developer with a passion for creating.
 - 💻 Building Spring Boot applications with PostgreSQL
 - 🤖 Startup incoming...
 
-<!--Check out my [coding portfolio!](https://erikc-portfolio.vercel.app/)-->
-
 ## 🎓 About Me
 
-I'm also an educational coding content creator, sharing my coding passion, and any advice on:
+I'm also sharing my journey online on these platforms:
 
 - [Instagram](https://www.instagram.com/life4pr/)
 - [TikTok](https://www.tiktok.com/@b426.prince)
